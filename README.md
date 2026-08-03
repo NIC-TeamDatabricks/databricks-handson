@@ -1,4 +1,4 @@
-# databricks-japan-bootcamp
+# databricks-handson
 
 こちらは日本で提供しているDatabricksのワークショップ用コンテンツの格納場所となります。
 
